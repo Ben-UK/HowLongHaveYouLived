@@ -176,7 +176,7 @@ public class Year {
 			yearString = "Nationwide uprising overthrows Yugoslavian president Milosevic (Oct. 5); Vojislav Kostunica sworn in as president (Oct. 7).";
 			break;
 		default:
-			yearString = "Invalid year, please enter a year between 1950 and 200";
+			yearString = "Invalid year, please enter a year between 1950 and 2000";
 			break;
 		}
 
